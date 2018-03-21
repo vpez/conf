@@ -1,1 +1,1 @@
-# conf
+# Some configuration files
